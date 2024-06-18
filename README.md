@@ -2,7 +2,7 @@
 <h2 align=" Center"> Web Developer </h2>
 I'm a passionate Computer Science student constantly striving to learn and grow as a developer. I'm excited to explore new technologies and contribute to open-source projects. Check out my repositories to see what I'm working on! Aspiring CSE student with a strong foundation in C , C++ I'm actively seeking opportunities to develop my skills in web development, data structures, algorithms
 
-Skills: C / C++ / JS / HTML / CSS
+Skills: C / C++ / JS / HTML / CSS / Python
 
 - 🔭 I’m currently working on this page. 
 
