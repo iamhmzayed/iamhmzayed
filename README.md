@@ -1,10 +1,41 @@
 <h1 align ="Center"> Hi there 👋, My Name is Hossain Mohammad Jayed </h1>
 <h2 align=" Center"> Web Developer </h2>
-I'm a passionate Computer Science student constantly striving to learn and grow as a developer. I'm excited to explore new technologies and contribute to open-source projects. Check out my repositories to see what I'm working on! Aspiring CSE student with a strong foundation in C , C++ I'm actively seeking opportunities to develop my skills in web development, data structures, algorithms
+Here’s a personalized GitHub bio based on what I know about you, Jayed:
 
-Skills: C / C++ / JS / HTML / CSS / Python
+---
 
-- 🔭 I’m currently working on this page. 
+### **Bio**  
+
+💻 Passionate **Software Developer** with a love for **Python programming**, **machine learning**, and **data analysis**.  
+📚 I’ve completed various professional courses, including:  
+- **Data Science & Analysis for Python**  
+- **Artificial Intelligence & Machine Learning Fundamentals**  
+- **Visual Identity Graphic Design**  
+
+🚀 My projects range from automation tools and games to machine learning applications. Check out some of my recent work:  
+- **TeleBot**: An automated Telegram bot.  
+- **Jarvis AI**: A voice-activated virtual assistant.  
+- **PDF Merger**: A script for merging multiple PDFs seamlessly.  
+- **Password Hacker**: A cybersecurity project showcasing password vulnerability testing.
+
+🎓 I’ve also explored **web scraping** and built a **Telegram bot**, along with developing a **Java-based inventory management system** as part of my project showcase.
+
+🔧 **Technologies I work with**:  
+- Python, Java, Machine Learning  
+- Libraries: Pandas, NumPy, Matplotlib, PyPDF2, Telegram API  
+- Tools: Git, Jupyter, Visual Studio Code  
+
+🎯 **Current Goals**:  
+- Enhance my skills in **machine learning** and **AI applications**.  
+- Build innovative projects like **Gradient Descent visualizations** and explore **HSPA limitations** for data communication.  
+
+🌟 Fun Fact: I love diving into challenging problems, whether it’s decoding Roman numerals or creating interactive games like Hangman!
+
+📫 Let’s connect!  
+- **GitHub**: [https://github.com/iamhmzayed/iamhmzayed]  
+- **LinkedIn**: [https://www.linkedin.com/in/iamhmzayed/]  
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamhmzayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamhmzayed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamhmzayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamhmzayed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamhmzayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCo_dhXjkUEXGvM8N3COO49Q)  
