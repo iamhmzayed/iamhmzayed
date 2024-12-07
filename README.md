@@ -1,8 +1,6 @@
 <h1 align ="Center"> Hi there 👋, My Name is Hossain Mohammad Jayed </h1>
-<h2 align=" Center"> Web Developer </h2>
-Here’s a personalized GitHub bio based on what I know about you, Jayed:
+<h2 align=" Center"> Developer </h2>
 
----
 
 ### **Bio**  
 
@@ -35,7 +33,7 @@ Here’s a personalized GitHub bio based on what I know about you, Jayed:
 - **GitHub**: [https://github.com/iamhmzayed/iamhmzayed]  
 - **LinkedIn**: [https://www.linkedin.com/in/iamhmzayed/]  
 
-
+---
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamhmzayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamhmzayed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamhmzayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamhmzayed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamhmzayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCo_dhXjkUEXGvM8N3COO49Q)  
